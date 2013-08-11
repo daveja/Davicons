@@ -1,7 +1,7 @@
 Davicons
 ========
 
-A small set of icons, for use with Staddle
+A small set of icons, for use with Staddle (www.staddl.es)
 
 Latest version is zipped in the root directory above
 
